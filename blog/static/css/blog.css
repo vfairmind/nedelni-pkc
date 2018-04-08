@@ -8,11 +8,11 @@ body {
 
 h1 a {
     color: #FCA205;
-    font-family: 'Lobster';
+    font-family: 'Shrikhand';
 }
 
 .page-header {
-     background-color: #ff9400;
+     background-color: #A571BF;
      margin-top: 0;
      padding: 20px 20px 20px 40px;
 }
@@ -28,7 +28,7 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-     font-family: 'Lobster', cursive;
+     font-family: 'Shrikhand', cursive;
 }
 
  .date {
